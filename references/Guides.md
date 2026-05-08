@@ -1,4 +1,4 @@
-# Guides and Communities
+# Guides
 * [Peterson Field Guide to Bird Sounds of Eastern North America](https://harpercollins.com/products/peterson-field-guide-to-bird-sounds-of-eastern-north-america-nathan-pieplow). Includes an introduction on how to read spectrograms and indexes for looking up species by sound qualities. There is an [online version](https://academy.allaboutbirds.org/peterson-field-guide-to-bird-sounds), but it is searchable only by species name, not by sound types or qualities.
 * [Nocturnal Flight Calls of North America](https://nocturnalflightcalls.com/): an online reference guide to nocturnal flight call spectrograms
 * ["AudioMoth: a practical guide to the open-source ARU"](https://github.com/rhine3/audiomoth-guide/blob/master/guide.md) (ARU = autonomous recording unit)
