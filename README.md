@@ -8,7 +8,7 @@ This repository is intended for birders, recordists, researchers, and tech-curio
 * [Getting started](https://github.com/AndrewW-NFC/nocturnal-flight-call-resources/blob/main/getting%20started.md)
 * [Equipment](https://github.com/AndrewW-NFC/nocturnal-flight-call-resources/tree/main/equipment)
 * [Software, code, and analysis](https://github.com/AndrewW-NFC/nocturnal-flight-call-resources/tree/main/software)
-* [Recording protocols](https://github.com/AndrewW-NFC/nocturnal-flight-call-resources/blob/main/docs/protocols.md)
+* [Recording protocols](https://github.com/AndrewW-NFC/nocturnal-flight-call-resources/blob/main/protocol)
 * [Publications and guides](https://github.com/AndrewW-NFC/nocturnal-flight-call-resources/tree/main/references)
 * [Glossary of bird call terms](http://oldbird.org/pubs/fcmb/pages/glossary.htm) by Bill Evans
 
