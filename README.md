@@ -1,8 +1,8 @@
 # Nocturnal Flight Call Resources
 
-Scripts, tools, and notes for nocturnal flight call recording, bird audio analysis, and related field audio workflows.
+Scripts, tools, and notes for nocturnal flight call recording, analysis, and research.
 
-This repository is intended for birders, recordists, researchers, and technically curious beginners who want to record, organize, or analyze nocturnal flight calls and other bird sounds.
+This repository is intended for birders, recordists, researchers, and tech-curious beginners who want to record, organize, or analyze nocturnal flight calls.
 
 ## Start here
 
