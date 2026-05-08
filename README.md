@@ -5,7 +5,7 @@ Scripts, tools, and research for nocturnal flight call recording.
 This repository is intended for birders, recordists, researchers, and tech-curious beginners who want to record and analyze nocturnal flight calls.
 
 ## Start here
-* [Getting started](https://github.com/AndrewW-NFC/nocturnal-flight-call-resources/blob/main/docs/getting-started.md)
+* [Getting started](https://github.com/AndrewW-NFC/nocturnal-flight-call-resources/blob/main/getting%20started.md)
 * [Equipment](https://github.com/AndrewW-NFC/nocturnal-flight-call-resources/tree/main/equipment)
 * [Software, code, and analysis](https://github.com/AndrewW-NFC/nocturnal-flight-call-resources/tree/main/software)
 * [Recording protocols](https://github.com/AndrewW-NFC/nocturnal-flight-call-resources/blob/main/docs/protocols.md)
