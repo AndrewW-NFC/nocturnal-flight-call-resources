@@ -12,8 +12,6 @@ This repository is intended for birders, recordists, researchers, and tech-curio
 * [Publications and guides](https://github.com/AndrewW-NFC/nocturnal-flight-call-resources/tree/main/references)
 * [Glossary of bird call terms](http://oldbird.org/pubs/fcmb/pages/glossary.htm) by Bill Evans
 
-Supporting PDFs, images, and sample files are hosted here when appropriate, but some resources may be linked rather than uploaded because of copyright or licensing limits.
-
 ## License
 
 Code in this repository is released under the MIT License unless otherwise noted.
