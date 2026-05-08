@@ -4,7 +4,7 @@
 > [!NOTE]
   > Nighthawk is not designed to analyze bird songs. Its training data are calls.
 * [Merlin](https://merlin.allaboutbirds.org/). Though it is not trained on NFCs, it can be good for identifying thrushes and some flight songs.
-* [BirdNET Analyzer](https://github.com/birdnet-team/BirdNET-Analyzer/). Not deeply trained on NFCs but is valuable for its bulk analysis of large files.
+* [BirdNET Analyzer](https://github.com/birdnet-team/BirdNET-Analyzer/). Not deeply trained on NFCs but valuable for its bulk analysis of large files.
 
 # Scripts
 * **Automating overnight recordings with Audition.** To help follow the eBird NFC protocol, this script starts and stops Audition recordings every hour, with a special stop at midnight. It saves each file using a filename that includes the start date and time. It also logs that hour's weather conditions. Available as [AppleScript](https://github.com/AndrewW-NFC/nocturnal-flight-call-resources/blob/main/Audition%201-hour%20recordings%20with%20break%20at%20midnight%20and%20enrivonmental%20conditions.scpt).
