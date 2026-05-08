@@ -6,6 +6,7 @@
 > [!NOTE]
   > Nighthawk is not designed to analyze bird songs. Its training data are calls.
 * [Merlin](https://merlin.allaboutbirds.org/): the go-to bird sound ID app, but it is not suitable for NFCs.
+* BirdNET Analyzer
 * [BirdNET API](https://birdnet.cornell.edu/api/): web-based bird sound ID. Unless you're using the API for other projects, consider this merely a backup option for Merlin, as its matches aren't filtered by date and location. It is not suitable for NFCs.
 
 > [!NOTE]
