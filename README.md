@@ -8,7 +8,7 @@ This repository is intended for birders, recordists, researchers, and technicall
 
 - [Getting started](docs/getting-started.md)
 - [Equipment](docs/equipment.md)
-- [Recording protocols](docs/recording-protocols.md)
+- [Recording protocols](docs/protocols.md)
 - [Forecasting recording conditions](docs/forecasting.md)
 - [Software and analysis tools](docs/software.md)
 - [Analysis workflows](docs/analysis-workflows.md)
