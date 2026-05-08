@@ -1,4 +1,5 @@
-```-- Script to automate recordings in Adobe Audition, Waveform Mode
+```
+-- Script to automate recordings in Adobe Audition, Waveform Mode
 -- Prevent recordings from crossing midnight by splitting at 11:59pm
 -- Adds logging to a text file and sets max 1-hour recording duration
 -- Now logs weather: surface air temperature, surface (10m) wind, 950 hPa wind, and cloud cover for Arlington, MA
@@ -153,5 +154,6 @@ on writeToLog(logEntry)
 	set timeStamp to do shell script "date '+%Y-%m-%d %H:%M:%S'"
 	set weatherInfo to my getWeather()
 	set fullEntry to timeStamp & " - " & logEntry & " | " & weatherInfo & return
-	do shell script "echo " & quoted form of fullEntry & " >> ~/Desktop/audition_recording_log.txt"```
+	do shell script "echo " & quoted form of fullEntry & " >> ~/Desktop/audition_recording_log.txt"
 end writeToLog
+```
