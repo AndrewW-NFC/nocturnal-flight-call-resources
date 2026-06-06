@@ -8,4 +8,4 @@
 
 # Scripts in this repo
 * **Automating overnight recordings with Audition and analyzing recordings in the morning.** To help follow the eBird NFC protocol, this script starts and stops Audition recordings every hour, with a special stop at midnight and a final stop at 6:15am. It saves each file to the desktop using a filename that includes the start date and time. It logs that hour's weather conditions. After 6:15am, it analyzes the files with Nighthawk and BirdNET.
-* **Generating a local acoustics quality forecast.** Available as [Python](https://github.com/AndrewW-NFC/Bird-Audio-Resources/blob/main/NFC%20quality%20weather%20forecast.py) | [HTML](https://github.com/AndrewW-NFC/nocturnal-flight-call-resources/blob/main/software/NFC%20acoustics%20quality%20forecast%20).
+* **Generating a local acoustics quality forecast.**
