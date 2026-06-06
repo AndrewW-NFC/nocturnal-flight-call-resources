@@ -6,6 +6,6 @@
 * [Merlin](https://merlin.allaboutbirds.org/). Though it is not trained on NFCs, it can be good for identifying thrushes and some flight songs.
 * [BirdNET Analyzer](https://github.com/birdnet-team/BirdNET-Analyzer/). Not deeply trained on NFCs but valuable for its bulk analysis of large files.
 
-# Scripts
-* **Automating overnight recordings with Audition.** To help follow the eBird NFC protocol, this script starts and stops Audition recordings every hour, with a special stop at midnight. It saves each file using a filename that includes the start date and time. It also logs that hour's weather conditions. Available as [AppleScript](https://github.com/AndrewW-NFC/nocturnal-flight-call-resources/blob/main/Audition%201-hour%20recordings%20with%20break%20at%20midnight%20and%20enrivonmental%20conditions.scpt).
+# Scripts in this repo
+* **Automating overnight recordings with Audition and analyzing recordings in the morning.** To help follow the eBird NFC protocol, this script starts and stops Audition recordings every hour, with a special stop at midnight and a final stop at 6:15am. It saves each file to the desktop using a filename that includes the start date and time. It logs that hour's weather conditions. After 6:15am, it analyzes the files with Nighthawk and BirdNET.
 * **Generating a local acoustics quality forecast.** Available as [Python](https://github.com/AndrewW-NFC/Bird-Audio-Resources/blob/main/NFC%20quality%20weather%20forecast.py) | [HTML](https://github.com/AndrewW-NFC/nocturnal-flight-call-resources/blob/main/software/NFC%20acoustics%20quality%20forecast%20).
